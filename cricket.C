@@ -26,6 +26,7 @@ int offstroke(int cx);
 int miss(int cx);
 int round(float x); // for round of integer
 int score(); // for shing of run
+int demovar();
 int main()
 {
    /* request auto detection */
